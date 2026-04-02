@@ -1,0 +1,26 @@
+{
+  "name": "peer-review-bot",
+  "description": "Telegram peer review bot",
+  "repository": "",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram bot token"
+    },
+    "ADMIN_ID": {
+      "description": "Telegram admin user id",
+      "value": "7019136722"
+    },
+    "HELP_HANDLE": {
+      "description": "Support telegram handle",
+      "value": "@U5M4H"
+    },
+    "HELP_URL": {
+      "description": "Support telegram url",
+      "value": "https://t.me/U5M4H"
+    },
+    "BOT_INSTANCE_NAME": {
+      "description": "Instance name",
+      "value": "bot2"
+    }
+  }
+}
